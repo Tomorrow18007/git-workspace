@@ -1,5 +1,5 @@
 server:
-  port: 10666
+  port: 16666
 spring:
   application:
     name: shares-helper
