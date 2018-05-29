@@ -5,5 +5,5 @@ spring:
     name: service-proxy
 logging:
   level:
-    root: WARN
+    root: ERROR
     com.xuyajie: DEBUG
