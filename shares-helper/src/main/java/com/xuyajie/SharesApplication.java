@@ -1,4 +1,4 @@
-package com.xuyajie.controller;
+package com.xuyajie;
 
 import java.io.IOException;
 
