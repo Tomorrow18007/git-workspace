@@ -1,0 +1,9 @@
+server:
+  port: 10666
+spring:
+  application:
+    name: service-proxy
+logging:
+  level:
+    root: ERROR
+    com.xuyajie: DEBUG
